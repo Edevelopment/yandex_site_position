@@ -1,15 +1,25 @@
-
 {
-    "name": "yandexapi/yandex_site_position",
-    "description": "get site position in yandex", 
-    "type": "library",
-    "homepage": "https://github.com/Edevelopment/yandex_site_position",
-    "license": "Apache-2.0",
-    "include-path": ["/"],
-    "authors": [
-      {
-        "name": "Edevelopment",
-        "homepage": "https://github.com/Edevelopment/yandex_site_position"
-      }
+    "repositories":[
+        {
+            "type":"git",
+            "url":"https://github.com/Edevelopment/yandex_site_position"
+        },
+
+        {
+            "type":"package",
+            "package":{
+                "name":"yandexapi/yandex_site_position",
+                "version":"0.1",
+                "source":{
+                    "type":"git",
+                    "url":"https://github.com/Edevelopment/yandex_site_position",
+                    "reference":"master"
+                },
+                "autoload":{
+                    "classmap":["yandex_site_position.php"],
+                    "files":["yandex_site_position.php"]
+                }
+            }
+        }
     ]
 }
