@@ -16,8 +16,7 @@
                     "reference":"master"
                 },
                 "autoload":{
-                    "classmap":["yandex_site_position.php"],
-                    "files":["yandex_site_position.php"]
+                    "classmap":["yandex_site_position.php"]
                 }
             }
         }
