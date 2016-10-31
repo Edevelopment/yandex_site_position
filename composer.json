@@ -6,7 +6,7 @@
     },
     "autoload":{
         "psr-0":{
-            "MyCompanyNamespace":""
+            "MyCompanyNamespace":"yandex_site_position.php"
         }
     }
 }
