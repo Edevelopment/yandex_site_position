@@ -5,6 +5,7 @@
     "type": "library",
     "homepage": "https://github.com/Edevelopment/yandex_site_position",
     "license": "Apache-2.0",
+    "include-path": ["/yandex_site_position.php"],
     "authors": [
       {
         "name": "Edevelopment",
