@@ -1,5 +1,5 @@
 {
-    "name":"yandex/site-position",
+    "name":"ya_4d/site-position",
     "version":"1.0",
     "require":{
         "php":">=5.3.0"
