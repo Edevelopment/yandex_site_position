@@ -1,13 +1,13 @@
 {
     "name":"ya_4d/site-position",
     "type":"library",
-    "version":"1.0",
+    "version":"1.0.0",
     "require":{
         "php":">=5.3.0"
     },
     "autoload":{
         "psr-0":{
-            "yandex_xml":"MyCompanyNamespace/"
+            "yandex_xml_":"MyCompanyNamespace/"
         }
     }
 }
